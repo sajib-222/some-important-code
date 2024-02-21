@@ -48,7 +48,7 @@ int main(){
                 }
             }
         }
-        if(c>=2)    //if repeatness occured more then 2 time it print copied else he won
+        if(c>=2)                                   //if repeatness occured more then 2 time it print copied else he won
         {
             cout<<"copied"<<endl;
         }
