@@ -2,7 +2,7 @@
 using namespace std;
 
 
-//or throwing a error message and exiting the program
+//r throwing a error message and exiting the program
 
 
 void error(int c){
